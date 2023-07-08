@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/flowerpops-react/static/css/main.d7d20386.css",
+    "main.js": "/flowerpops-react/static/js/main.69083228.js",
+    "static/js/787.d7e02c3b.chunk.js": "/flowerpops-react/static/js/787.d7e02c3b.chunk.js",
+    "static/media/pic2.jpg": "/flowerpops-react/static/media/pic2.a03cc70c85b858498b11.jpg",
+    "static/media/pic1.jpg": "/flowerpops-react/static/media/pic1.be2981434f4a5753ea78.jpg",
+    "static/media/pic3.jpg": "/flowerpops-react/static/media/pic3.879775e6540d8bb55c57.jpg",
+    "static/media/pic4.jpg": "/flowerpops-react/static/media/pic4.6c908467222004d88a10.jpg",
+    "static/media/carousel2.jpg": "/flowerpops-react/static/media/carousel2.456c273c5bd8cd39837b.jpg",
+    "static/media/carousel3.jpg": "/flowerpops-react/static/media/carousel3.4097eb888f686b236bb3.jpg",
+    "static/media/carousel1.jpg": "/flowerpops-react/static/media/carousel1.88eef11475adf33d250f.jpg",
+    "static/media/carousel4.jpg": "/flowerpops-react/static/media/carousel4.2cb2f27c1d00420a28cf.jpg",
+    "static/media/pic5.jpg": "/flowerpops-react/static/media/pic5.3c5c68bf0f7021b3a45a.jpg",
+    "static/media/pic6.jpg": "/flowerpops-react/static/media/pic6.e1b9c8238785903a3373.jpg",
+    "index.html": "/flowerpops-react/index.html",
+    "main.d7d20386.css.map": "/flowerpops-react/static/css/main.d7d20386.css.map",
+    "main.69083228.js.map": "/flowerpops-react/static/js/main.69083228.js.map",
+    "787.d7e02c3b.chunk.js.map": "/flowerpops-react/static/js/787.d7e02c3b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d7d20386.css",
+    "static/js/main.69083228.js"
+  ]
+}
