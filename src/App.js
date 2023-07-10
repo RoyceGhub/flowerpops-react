@@ -1,4 +1,4 @@
-import { BrowserRouter as Router, Route, Routes, BrowserRouter } from "react-router-dom";
+import { HashRouter as Router, Route, Routes } from "react-router-dom";
 import Home from "./Components/Home";
 import AboutUsPage from "./Components/AboutUsPage";
 import Flowers from "./Components/Flowers";
@@ -8,7 +8,7 @@ import Cart from "./Components/Cart";
 function App() {
   return (
     <div className="App">
-      <BrowserRouter>
+      <Router>
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/home" element={<Home />} />
@@ -17,7 +17,7 @@ function App() {
           <Route path="/contactus" element={<ContactUs />} />
           <Route path="/cart" element={<Cart />} />
         </Routes>
-      </BrowserRouter>
+      </Router>
     </div>
   );
 }

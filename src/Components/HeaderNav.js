@@ -10,14 +10,13 @@ import ModalRegister from "./ModalRegister";
 
 function HeaderNav() {
   const [show, setShow] = useState(false);
-
   const handleClose = () => setShow(false);
   const handleShow = () => setShow(true);
 
   return (
     <Navbar className="bg-danger shadow-1-strong" expand="lg" style={{ height: "90px" }}>
       <Container fluid>
-        <NavLink>
+        <NavLink to={"/home"}>
           <Image
             src="https://www.freeiconspng.com/thumbs/flowers-icon-png/free-flower-material-cherry--pictures-of-clipart-and-graphic-design--20.png"
             width="50"

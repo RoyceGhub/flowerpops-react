@@ -2,7 +2,6 @@ import { Row, Col, Container } from "react-bootstrap";
 import BestSeller from "./BestSeller";
 import BestSellerCards from "./BestSellerCards";
 import CarouselPics from "./Carousel";
-import HeaderNav from "./HeaderNav";
 import AboutUs from "./AboutUs";
 import "./AboutUsBackground.css";
 import PaymentOption from "./PaymentOption";
@@ -13,11 +12,12 @@ import item4 from "../Pictures/pic4.jpg";
 import item5 from "../Pictures/pic5.jpg";
 import item6 from "../Pictures/pic6.jpg";
 import Footer from "./Footer";
+import HeaderNav from "./HeaderNav";
 
 function Home() {
   return (
     <>
-      <HeaderNav></HeaderNav>
+      <HeaderNav />
       <CarouselPics></CarouselPics>
       <br />
       <br />
