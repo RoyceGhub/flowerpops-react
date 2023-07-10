@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Almarai&family=Bebas+Neue&family=Great+Vibes&family=Kaushan+Script&family=Poppins:wght@500&family=Roboto+Slab:wght@500&family=Satisfy&display=swap');
+
+.ContactUsBorder1{
+    border-style: groove;
+    box-sizing: border-box;
+    border-color: black;
+    border-radius: 5px;
+    border-width: 1px;
+}
+
+.fontStyle{
+    font-size: small;
+    font-family: 'Almarai', sans-serif;font-family:
+    
+}

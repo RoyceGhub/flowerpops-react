@@ -1,0 +1,12 @@
+.FooterBackground{
+    background-image: url(https://wallpapers.com/images/hd/dark-flower-aesthetic-3x6xc6nc3qojx9l8.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    height: 450px;
+}
+
+.p{
+    color: white;
+}
