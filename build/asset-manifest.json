@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/flowerpops-react/static/css/main.d7d20386.css",
-    "main.js": "/flowerpops-react/static/js/main.42b6f675.js",
+    "main.js": "/flowerpops-react/static/js/main.b1cc8f05.js",
     "static/js/787.d7e02c3b.chunk.js": "/flowerpops-react/static/js/787.d7e02c3b.chunk.js",
     "static/media/pic2.jpg": "/flowerpops-react/static/media/pic2.a03cc70c85b858498b11.jpg",
     "static/media/pic1.jpg": "/flowerpops-react/static/media/pic1.be2981434f4a5753ea78.jpg",
@@ -15,11 +15,11 @@
     "static/media/pic6.jpg": "/flowerpops-react/static/media/pic6.e1b9c8238785903a3373.jpg",
     "index.html": "/flowerpops-react/index.html",
     "main.d7d20386.css.map": "/flowerpops-react/static/css/main.d7d20386.css.map",
-    "main.42b6f675.js.map": "/flowerpops-react/static/js/main.42b6f675.js.map",
+    "main.b1cc8f05.js.map": "/flowerpops-react/static/js/main.b1cc8f05.js.map",
     "787.d7e02c3b.chunk.js.map": "/flowerpops-react/static/js/787.d7e02c3b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d7d20386.css",
-    "static/js/main.42b6f675.js"
+    "static/js/main.b1cc8f05.js"
   ]
 }
