@@ -12,12 +12,10 @@ import item4 from "../Pictures/pic4.jpg";
 import item5 from "../Pictures/pic5.jpg";
 import item6 from "../Pictures/pic6.jpg";
 import Footer from "./Footer";
-import HeaderNav from "./HeaderNav";
 
 function Home() {
   return (
     <>
-      <HeaderNav />
       <CarouselPics></CarouselPics>
       <br />
       <br />
