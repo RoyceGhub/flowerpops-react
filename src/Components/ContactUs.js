@@ -1,4 +1,3 @@
-import HeaderNav from "./HeaderNav";
 import "./AboutUsBackground.css";
 import { Container, Row, Col, Form, Button, Carousel } from "react-bootstrap";
 import "./ContactUsBorder.css";
@@ -8,8 +7,6 @@ import { GiSpotedFlower } from "react-icons/gi";
 function ContactUs() {
   return (
     <>
-      <HeaderNav />
-
       <Carousel slick-disabled>
         <Carousel.Item>
           <div style={{ height: "350px" }}>

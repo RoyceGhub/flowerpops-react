@@ -1,13 +1,10 @@
 import { Container, Row, Col, Image, Carousel } from "react-bootstrap";
 import Footer from "./Footer";
-import HeaderNav from "./HeaderNav";
 import { GiSpotedFlower } from "react-icons/gi";
 
 function AboutUsPage() {
   return (
     <>
-      <HeaderNav></HeaderNav>
-
       <Carousel slick-disabled>
         <Carousel.Item>
           <div style={{ height: "350px" }}>

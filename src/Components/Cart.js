@@ -1,5 +1,4 @@
 import { Container, Row, Col, Carousel } from "react-bootstrap";
-import HeaderNav from "./HeaderNav";
 import { MDBBtn, MDBCard, MDBCardBody, MDBCardImage, MDBCardText, MDBCol, MDBContainer, MDBIcon, MDBInput, MDBRow, MDBTypography } from "mdb-react-ui-kit";
 import React from "react";
 import Footer from "./Footer";
@@ -12,7 +11,6 @@ import { GiSpotedFlower } from "react-icons/gi";
 export default function Cart() {
   return (
     <>
-      <HeaderNav />
       <Carousel slick-disabled>
         <Carousel.Item>
           <div style={{ height: "350px" }}>

@@ -1,6 +1,5 @@
 import { Row, Col, Container, Button, Carousel } from "react-bootstrap";
 import BestSellerCards from "./BestSellerCards";
-import HeaderNav from "./HeaderNav";
 import "./AboutUsBackground.css";
 import Footer from "./Footer";
 import item1 from "../Pictures/pic1.jpg";
@@ -12,8 +11,6 @@ import PaginationNumber from "./Pagination";
 function Flowers() {
   return (
     <>
-      <HeaderNav></HeaderNav>
-
       <Carousel slick-disabled>
         <Carousel.Item>
           <div style={{ height: "350px" }}>
